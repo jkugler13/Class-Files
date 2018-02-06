@@ -1,3 +1,6 @@
+Classes contained in repository:
+	1) Double_Linked_List
+
 Double Linked List template created 02/02/2018
 
 SUMMARY:
